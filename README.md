@@ -4,4 +4,4 @@
 
 ## Output
 
-![gıf](gif.mov)
+![gıf](./gif.mov)
